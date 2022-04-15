@@ -82,5 +82,5 @@ print("El resultado de la expresion 5 es: ", value);
 resultado = 4 / 2 * 3 / 6 + 6 / 2 / 1 / 5 % 2 / 4 * 2;
 print("El resultado de la expresion 5 es: ", resultado);
 
-print("BY: Salathiel :D presiona Enter para salir")
+print("BY: Edgar :D presiona Enter para salir")
 input()
